@@ -1,4 +1,4 @@
-# R script to add meta-data information to the BBMO sample attributes
+# R script to create the BBMO sample attributes file
 
 bbmo_meta <- read.table("bbmo_meta_v3.txt", header = TRUE)
 library(dplyr)
