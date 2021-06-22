@@ -5,3 +5,4 @@ This repository contains:
 
 * The **Scripts** folder with all the Shell and R scripts used for the analyses, as well a file contaning the attributes from BBMO samples.
 * The **SnpEff summary files** contaning information and overall statistics of the genetic variants (SNPs) found in the 4 MAGs.
+* The **inStrain compare** complete output containing tables used to interpret the results.
